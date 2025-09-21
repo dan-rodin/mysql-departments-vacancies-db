@@ -2,7 +2,7 @@
 
 **Database: rodin22399643 = surname + student number**
 
-This repository contains my MySQL database assignment for **COMP20070 – Database Systems** at University College Dublin.
+This repository contains my MySQL database assignment for Databases.
 The database models a company's **departments, vacancies, skills, candidates, and interviews**, based on the scenario provided in the assignment brief.
 
 Includes a *Breaking Bad*–themed candidates dataset, modeled after a tech company based out of Albuquerque, New Mexico (where the TV show is set).
